@@ -33,7 +33,6 @@ const Cards = (props) => {
                     
                
 
-
             <Modal
             show={show}
             onHide={closemodal}
